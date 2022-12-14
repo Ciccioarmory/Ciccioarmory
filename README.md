@@ -22,7 +22,7 @@ I have some works with **JavaScript**, and **Lua**!
  
 <h2>⚡ GitHub Stats</h2>
 <p align="left">
-  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=z0nzjn123&show_icons=true&layout=compact&theme=react&hide_border=true" alt="Github status" />
-  </br><img src="https://github-readme-stats.vercel.app/api/wakatime?username=z0nzjn123&theme=react&hide_border=true" alt="Wakatime" />
+  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=Ciccioarmory&show_icons=true&layout=compact&theme=react&hide_border=true" alt="Github status" />
+  </br><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ciccioarmory&theme=react&hide_border=true" alt="Wakatime" />
 </p>
 
