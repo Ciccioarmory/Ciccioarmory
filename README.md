@@ -4,7 +4,7 @@
   <img alt="Status" src="https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey" />
 </p>
 
-Hi guys, I'm **Cici**. I am a developer from **Italy**. I'm currently the Lead Developer on Viper Roleplay.
+Hi, I'm **Cici**. I am a developer from **Italy**. I'm currently the Lead Developer on Viper Roleplay.
 I have some works with **JavaScript**, and **Lua**!
 </br>📫 How to reach me:  Discord = Ciccioarmory#7050  </a>
 
