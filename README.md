@@ -6,7 +6,7 @@
 
 Hi, I'm **Cici**. I am a developer from **Italy**. I'm currently the Lead Developer on Viper Roleplay.
 I have some works with **JavaScript**, and **Lua**!
-</br>📫 How to reach me:  Discord = Ciccioarmory#7050  </a>
+</br>📫 Reach me on Discord!  Ciccioarmory#7050  </a>
 
 <h2>🚀 Technologies</h2>
 <p>
