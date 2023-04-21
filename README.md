@@ -25,9 +25,9 @@ I have some works with **JavaScript**, and **Lua**!
   <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=Ciccioarmory&show_icons=true&layout=compact&theme=react&hide_border=true" alt="Github status"/>
 </p>
 
-<h2>⚡ If you wanna buy me a coffee</h2>
+<h2>❤️ If you wanna buy me a coffee</h2>
 <p align="left">
-  <a href="https://ko-fi.com/ciccioarmory"><img src="https://cdn.discordapp.com/attachments/790331432681078784/1099032832254423100/61e11149b3af2ee970bb8ead_Ko-fi_logo.png" alt="Ko-fi" style="width:300px;height:120px;"/></a>
+  <a href="https://ko-fi.com/ciccioarmory"><img src="https://cdn.discordapp.com/attachments/790331432681078784/1099032832254423100/61e11149b3af2ee970bb8ead_Ko-fi_logo.png" alt="Ko-fi" style="width:300px;height:125px;"/></a>
 </p>
 
 
