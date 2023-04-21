@@ -25,5 +25,10 @@ I have some works with **JavaScript**, and **Lua**!
   <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=Ciccioarmory&show_icons=true&layout=compact&theme=react&hide_border=true" alt="Github status" />
 </p>
 
+<h2>⚡ If you wanna buy me a coffee</h2>
+<p align="left">
+  <img src="https://cdn.discordapp.com/attachments/790331432681078784/1099032832254423100/61e11149b3af2ee970bb8ead_Ko-fi_logo.png" alt="Github status" />
+</p>
+
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'L3L37X100');kofiwidget2.draw();</script> 
 
