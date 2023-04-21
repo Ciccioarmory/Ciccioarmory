@@ -25,3 +25,5 @@ I have some works with **JavaScript**, and **Lua**!
   <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=Ciccioarmory&show_icons=true&layout=compact&theme=react&hide_border=true" alt="Github status" />
 </p>
 
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'L3L37X100');kofiwidget2.draw();</script> 
+
