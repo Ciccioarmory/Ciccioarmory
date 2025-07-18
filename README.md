@@ -14,6 +14,7 @@ I have some works with **JavaScript**, and **Lua**!
   <img alt="Github" src="https://img.shields.io/badge/-Github-2e2e2e?style=flat-square&logo=github&logoColor=white" />
   <img alt="Lua" src="https://img.shields.io/badge/-Lua-5ca4cc?style=flat-square&logo=lua&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-41B883?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="MySql" src="https://img.shields.io/badge/-MySQL-00756f?style=flat-square&logo=mysql&logoColor=white" />
