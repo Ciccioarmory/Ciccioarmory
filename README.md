@@ -6,7 +6,7 @@
 
 Hi, I'm **Cici**. I am a developer from **Italy**. I'm currently the Lead Developer on Viper Roleplay.
 I have some works with **JavaScript**, and **Lua**!
-</br>📫 Reach me on Discord!  Ciccioarmory#7050  </a>
+</br>📫 Reach me on Discord!  ciccioarmory  </a>
 
 <h2>🚀 Technologies</h2>
 <p>
@@ -20,10 +20,4 @@ I have some works with **JavaScript**, and **Lua**!
   <img alt="MySql" src="https://img.shields.io/badge/-MySQL-00756f?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
- 
-<h2>⚡ GitHub Stats</h2>
-<p align="left">
-  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=Ciccioarmory&show_icons=true&layout=compact&theme=react&hide_border=true" alt="Github status"/>
-</p>
-
 
